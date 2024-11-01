@@ -1,5 +1,20 @@
+#站点信息
 site_name: Frederick's Logs
+site_author: Frederick_Yxg
+site_url: https://frederickyxg.github.io/FrederickLOG.github.io/
+site_description: Lazy……
+
+
+
+
+#导航树设置
+nav:
+  - HOME: 
+    - "index.md"
+  - NBU-NOTES: 
+    - "NBU-NOTES/index.md"
+    - "NBU-NOTES/signal and system.md"
+
+
 theme:
   name: material
-
-
