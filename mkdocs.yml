@@ -4,9 +4,6 @@ site_author: Frederick_Yxg
 site_url: https://frederickyxg.github.io/FrederickLOG.github.io/
 site_description: Lazy……
 
-
-
-
 #导航树设置
 nav:
   - HOME: 
@@ -17,4 +14,5 @@ nav:
 
 
 theme:
-  name: material
+  name: cinder
+
